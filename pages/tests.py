@@ -56,3 +56,4 @@ class AboutPageTests(SimpleTestCase):
             view.func.__name__,
             AboutPageView.as_view().__name__
         )
+        

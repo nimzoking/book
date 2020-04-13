@@ -17,8 +17,14 @@ Completed OK
 Completed OK
 
 ## Chapter 6
+Completed OK
+
+Need to look into crispy forms in more details, and Bootstrap.
+Add example forms from Bootstrap into templates.
 
 ## Chapter 7
+Completed OK
+Explore options for Social Authentication
 
 ## Chapter 8
 
