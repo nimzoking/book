@@ -31,6 +31,10 @@ Completed OK
 Remember to escape $ in .env, or change to #
 
 ## Chapter 9
+Completed OK
+
+Change the password reset and password change workflow
+Test setting up with e-mail provider
 
 ## Chapter 10
 

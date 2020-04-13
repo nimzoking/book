@@ -174,3 +174,6 @@ ACCOUNT_USERNAME_REQUIRED = False # new
 ACCOUNT_AUTHENTICATION_METHOD = 'email' # new
 ACCOUNT_EMAIL_REQUIRED = True # new
 ACCOUNT_UNIQUE_EMAIL = True # new
+
+#email settings
+DEFAULT_FROM_EMAIL = 'admin@bearbags_uk.open4digital.uk'
