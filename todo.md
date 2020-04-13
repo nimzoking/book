@@ -27,6 +27,8 @@ Completed OK
 Explore options for Social Authentication
 
 ## Chapter 8
+Completed OK
+Remember to escape $ in .env, or change to #
 
 ## Chapter 9
 
