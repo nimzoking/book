@@ -25,4 +25,5 @@ urlpatterns = [
 
     # Local apps
     path('', include('pages.urls')),
+    path('store/',include('store.urls')),
 ]

@@ -37,6 +37,8 @@ Change the password reset and password change workflow
 Test setting up with e-mail provider
 
 ## Chapter 10
+Completed OK
+Changed the books to store, to check I had understood and make the correct changes.
 
 ## Chapter 11
 
