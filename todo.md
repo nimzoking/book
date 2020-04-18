@@ -43,8 +43,11 @@ Changed the books to store, to check I had understood and make the correct chang
 ## Chapter 11
 Completed OK, fairly standard.  
 Explore putting review in bookstrap container.
+Explore adding a reviews form
 
 ## Chapter 12
+Completed OK
+Explore extending with bootstrap.
 
 ## Chapter 13
 

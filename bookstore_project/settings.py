@@ -178,3 +178,7 @@ ACCOUNT_UNIQUE_EMAIL = True # new
 
 #email settings
 DEFAULT_FROM_EMAIL = 'admin@bearbags_uk.open4digital.uk'
+
+#media settings
+MEDIA_URL = '/media/'
+MEDIA_ROOT = os.path.join(BASE_DIR, 'media')
