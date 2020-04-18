@@ -41,6 +41,8 @@ Completed OK
 Changed the books to store, to check I had understood and make the correct changes.
 
 ## Chapter 11
+Completed OK, fairly standard.  
+Explore putting review in bookstrap container.
 
 ## Chapter 12
 
