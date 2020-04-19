@@ -50,8 +50,13 @@ Completed OK
 Explore extending with bootstrap.
 
 ## Chapter 13
+Completed OK
+Tests useful to remind me to check context of application correctly
 
 ## Chapter 14
+Completed OK
+Made adjustments for GBP
+Explore options to pre-populate the e-mail field for Stripe, and store account details.
 
 ## Chapter 15
 

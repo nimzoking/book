@@ -50,6 +50,7 @@ INSTALLED_APPS = [
     'users.apps.UsersConfig', 
     'pages.apps.PagesConfig',
     'store.apps.StoreConfig',
+    'orders.apps.OrdersConfig',
 ]
 
 MIDDLEWARE = [
@@ -182,3 +183,7 @@ DEFAULT_FROM_EMAIL = 'admin@bearbags_uk.open4digital.uk'
 #media settings
 MEDIA_URL = '/media/'
 MEDIA_ROOT = os.path.join(BASE_DIR, 'media')
+
+# Stripe
+STRIPE_TEST_PUBLISHABLE_KEY=os.environ.get('STRIPE_TEST_PUBLISHABLE_KEY')
+STRIPE_TEST_SECRET_KEY=os.environ.get('STRIPE_TEST_SECRET_KEY')
