@@ -59,6 +59,9 @@ Made adjustments for GBP
 Explore options to pre-populate the e-mail field for Stripe, and store account details.
 
 ## Chapter 15
+Completed OK
+Search is very basic, and does not work for with OR correctly
+Explore use of Watson or Haystack
 
 ## Chapter 16
 
