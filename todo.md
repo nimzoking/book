@@ -64,6 +64,8 @@ Search is very basic, and does not work for with OR correctly
 Explore use of Watson or Haystack
 
 ## Chapter 16
+Completed OK
+django-extensions not loading - need to check why, pip list shows installed
 
 ## Chapter 17
 
