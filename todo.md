@@ -65,9 +65,12 @@ Explore use of Watson or Haystack
 
 ## Chapter 16
 Completed OK
-django-extensions not loading - need to check why, pip list shows installed
+django-extensions not loading - need to check why, pip list shows installed *sorted
 
 ## Chapter 17
+Completed OK
+Hard to test production without deploying with an SSL certificate
+Added extra field relevant for Django 3.0 missed by the author.
 
 ## Chapter 18
 
